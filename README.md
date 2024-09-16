@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0906-walking-robot-simulation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -32,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Hash Table
@@ -43,6 +45,7 @@
 ## Math
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Linked List
@@ -92,4 +95,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Sorting
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
