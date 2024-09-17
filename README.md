@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0906-walking-robot-simulation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1435-xor-queries-of-a-subarray) |
@@ -16,6 +17,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
 |  |
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
