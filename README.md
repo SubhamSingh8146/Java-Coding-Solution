@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0010-regular-expression-matching) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -43,6 +44,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0906-walking-robot-simulation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -129,4 +131,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
