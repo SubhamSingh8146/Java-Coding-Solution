@@ -37,6 +37,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0032-longest-valid-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -135,4 +137,8 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
