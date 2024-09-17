@@ -35,6 +35,7 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0010-regular-expression-matching) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -108,4 +109,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
