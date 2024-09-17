@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0042-trapping-rain-water) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0906-walking-robot-simulation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1435-xor-queries-of-a-subarray) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0042-trapping-rain-water) |
 ## Recursion
 |  |
 | ------- |
@@ -146,8 +148,17 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0042-trapping-rain-water) |
 ## Backtracking
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0037-sudoku-solver) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
