@@ -97,10 +97,12 @@
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1484-linked-list-in-binary-tree](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1484-linked-list-in-binary-tree](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -109,6 +111,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1484-linked-list-in-binary-tree](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1484-linked-list-in-binary-tree) |
 ## Matrix
 |  |
@@ -156,6 +159,7 @@
 | [0087-scramble-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
 |  |
