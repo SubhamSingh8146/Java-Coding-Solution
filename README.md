@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0060-permutation-sequence) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2155-find-missing-observations) |
@@ -147,6 +148,7 @@
 | [0010-regular-expression-matching](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0060-permutation-sequence) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 ## Heap (Priority Queue)
 |  |
