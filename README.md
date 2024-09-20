@@ -49,6 +49,7 @@
 | [0044-wildcard-matching](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0076-minimum-window-substring) |
 | [0214-shortest-palindrome](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
@@ -63,6 +64,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0076-minimum-window-substring) |
 | [0906-walking-robot-simulation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -167,6 +169,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0076-minimum-window-substring) |
 ## Stack
 |  |
 | ------- |
