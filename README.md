@@ -16,6 +16,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0149-max-points-on-a-line) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0906-walking-robot-simulation) |
@@ -80,6 +81,7 @@
 | [0126-word-ladder-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0149-max-points-on-a-line) |
 | [0906-walking-robot-simulation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -89,6 +91,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0060-permutation-sequence) |
+| [0149-max-points-on-a-line](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0149-max-points-on-a-line) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2155-find-missing-observations) |
@@ -250,4 +253,8 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0140-word-break-ii) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
