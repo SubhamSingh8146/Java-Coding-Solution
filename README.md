@@ -57,6 +57,7 @@
 | [0115-distinct-subsequences](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0214-shortest-palindrome](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
@@ -166,6 +167,7 @@
 | [0115-distinct-subsequences](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
 |  |
