@@ -12,6 +12,7 @@
 | [0051-n-queens](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0085-maximal-rectangle) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0906-walking-robot-simulation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1435-xor-queries-of-a-subarray) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0085-maximal-rectangle) |
 | [2411-spiral-matrix-iv](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2411-spiral-matrix-iv) |
 ## Number Theory
 |  |
@@ -147,6 +149,7 @@
 | [0032-longest-valid-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0044-wildcard-matching) |
+| [0085-maximal-rectangle](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0085-maximal-rectangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
 |  |
@@ -177,6 +180,7 @@
 | [0032-longest-valid-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0085-maximal-rectangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -192,6 +196,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0085-maximal-rectangle) |
 ## Greedy
 |  |
 | ------- |
