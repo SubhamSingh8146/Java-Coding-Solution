@@ -44,6 +44,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0044-wildcard-matching) |
+| [0214-shortest-palindrome](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -184,4 +185,16 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
