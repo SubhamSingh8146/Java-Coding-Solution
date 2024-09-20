@@ -10,6 +10,7 @@
 | [0041-first-missing-positive](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0051-n-queens) |
+| [0068-text-justification](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0068-text-justification) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0906-walking-robot-simulation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1435-xor-queries-of-a-subarray) |
@@ -27,6 +28,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0068-text-justification) |
 | [0906-walking-robot-simulation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -46,6 +48,7 @@
 | [0032-longest-valid-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0068-text-justification) |
 | [0214-shortest-palindrome](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
