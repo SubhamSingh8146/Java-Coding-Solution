@@ -15,6 +15,7 @@
 | [0085-maximal-rectangle](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0135-candy) |
+| [0140-word-break-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
 | [0906-walking-robot-simulation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0906-walking-robot-simulation) |
@@ -60,6 +61,7 @@
 | [0126-word-ladder-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0140-word-break-ii) |
 | [0214-shortest-palindrome](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
@@ -77,6 +79,7 @@
 | [0076-minimum-window-substring](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0140-word-break-ii) |
 | [0906-walking-robot-simulation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -170,6 +173,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
@@ -209,6 +213,7 @@
 | [0051-n-queens](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0052-n-queens-ii) |
 | [0126-word-ladder-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0126-word-ladder-ii) |
+| [0140-word-break-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0140-word-break-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -227,6 +232,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
 |  |
@@ -240,4 +246,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
