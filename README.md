@@ -56,6 +56,7 @@
 | [0087-scramble-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0127-word-ladder) |
 | [0214-shortest-palindrome](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
@@ -72,6 +73,7 @@
 | [0041-first-missing-positive](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0127-word-ladder) |
 | [0906-walking-robot-simulation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0127-word-ladder) |
 | [1484-linked-list-in-binary-tree](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
