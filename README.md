@@ -171,6 +171,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0052-n-queens-ii) |
 ## Two Pointers
 |  |
 | ------- |
