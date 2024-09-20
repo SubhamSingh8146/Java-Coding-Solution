@@ -53,6 +53,7 @@
 | [0068-text-justification](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
@@ -152,6 +153,7 @@
 | [0044-wildcard-matching](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0115-distinct-subsequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
 |  |
