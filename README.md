@@ -118,6 +118,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0386-lexicographical-numbers](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0386-lexicographical-numbers) |
 | [1484-linked-list-in-binary-tree](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -255,6 +256,7 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0140-word-break-ii) |
+| [0386-lexicographical-numbers](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0386-lexicographical-numbers) |
 ## Geometry
 |  |
 | ------- |
