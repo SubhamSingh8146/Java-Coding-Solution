@@ -27,6 +27,7 @@
 | [2155-find-missing-observations](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2755-extra-characters-in-a-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
@@ -71,6 +72,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2755-extra-characters-in-a-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2755-extra-characters-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | [0906-walking-robot-simulation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2755-extra-characters-in-a-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -182,6 +185,7 @@
 | [0140-word-break-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [2755-extra-characters-in-a-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2755-extra-characters-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -257,6 +261,7 @@
 | ------- |
 | [0140-word-break-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0140-word-break-ii) |
 | [0386-lexicographical-numbers](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0386-lexicographical-numbers) |
+| [2755-extra-characters-in-a-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2755-extra-characters-in-a-string) |
 ## Geometry
 |  |
 | ------- |
