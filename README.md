@@ -20,6 +20,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
+| [0729-my-calendar-i](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0729-my-calendar-i) |
 | [0906-walking-robot-simulation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0906-walking-robot-simulation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0729-my-calendar-i](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0729-my-calendar-i) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
 |  |
@@ -270,4 +272,16 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0149-max-points-on-a-line) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
