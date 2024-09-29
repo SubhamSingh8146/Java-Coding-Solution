@@ -93,6 +93,7 @@
 | [0127-word-ladder](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0149-max-points-on-a-line) |
+| [0432-all-oone-data-structure](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0432-all-oone-data-structure) |
 | [0906-walking-robot-simulation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -115,6 +116,7 @@
 | [0002-add-two-numbers](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0432-all-oone-data-structure](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2411-spiral-matrix-iv) |
@@ -278,6 +280,7 @@
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
@@ -290,4 +293,8 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0731-my-calendar-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
