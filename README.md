@@ -22,6 +22,7 @@
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0906-walking-robot-simulation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -118,6 +119,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0432-all-oone-data-structure](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -283,6 +285,7 @@
 | [0432-all-oone-data-structure](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
@@ -297,4 +300,8 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0432-all-oone-data-structure) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
