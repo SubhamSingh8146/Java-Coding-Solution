@@ -24,6 +24,7 @@
 | [0731-my-calendar-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0906-walking-robot-simulation) |
+| [1256-rank-transform-of-an-array](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -101,6 +102,7 @@
 | [0432-all-oone-data-structure](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0432-all-oone-data-structure) |
 | [0906-walking-robot-simulation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1256-rank-transform-of-an-array](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -183,6 +185,7 @@
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
+| [1256-rank-transform-of-an-array](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1256-rank-transform-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
