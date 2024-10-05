@@ -81,6 +81,7 @@
 | [0214-shortest-palindrome](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -100,6 +101,7 @@
 | [0140-word-break-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0149-max-points-on-a-line) |
 | [0432-all-oone-data-structure](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0567-permutation-in-string) |
 | [0906-walking-robot-simulation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1256-rank-transform-of-an-array) |
@@ -231,6 +233,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -251,6 +254,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0042-trapping-rain-water) |
+| [0567-permutation-in-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0567-permutation-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
