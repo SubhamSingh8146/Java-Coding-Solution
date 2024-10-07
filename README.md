@@ -55,6 +55,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2411-spiral-matrix-iv) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [1923-sentence-similarity-iii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2755-extra-characters-in-a-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
@@ -244,6 +246,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0085-maximal-rectangle) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Backtracking
 |  |
 | ------- |
