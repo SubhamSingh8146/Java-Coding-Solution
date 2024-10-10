@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0042-trapping-rain-water) |
@@ -192,6 +193,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0016-3sum-closest) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1256-rank-transform-of-an-array) |
 ## Divide and Conquer
@@ -262,6 +264,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0042-trapping-rain-water) |
 | [0567-permutation-in-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1923-sentence-similarity-iii) |
