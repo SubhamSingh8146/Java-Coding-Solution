@@ -40,6 +40,7 @@
 | [2411-spiral-matrix-iv](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -242,6 +243,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Merge Sort
 |  |
 | ------- |
@@ -297,6 +299,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Memoization
 |  |
 | ------- |
