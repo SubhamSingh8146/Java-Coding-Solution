@@ -57,6 +57,7 @@
 | ------- |
 | [0068-text-justification](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0068-text-justification) |
 | [0906-walking-robot-simulation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0906-walking-robot-simulation) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2155-find-missing-observations) |
@@ -93,6 +94,7 @@
 | [0567-permutation-in-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1304-longest-happy-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1304-longest-happy-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -238,6 +240,7 @@
 | [0044-wildcard-matching](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0060-permutation-sequence) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
