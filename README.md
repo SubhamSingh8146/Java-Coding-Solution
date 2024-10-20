@@ -93,6 +93,7 @@
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1197-parsing-a-boolean-expression](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -240,6 +241,7 @@
 | [0044-wildcard-matching](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0060-permutation-sequence) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [1197-parsing-a-boolean-expression](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Heap (Priority Queue)
 |  |
@@ -270,6 +272,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0085-maximal-rectangle) |
 | [1002-maximum-width-ramp](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2800-minimum-string-length-after-removing-substrings) |
