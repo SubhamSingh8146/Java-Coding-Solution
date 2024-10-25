@@ -28,6 +28,7 @@
 | [0906-walking-robot-simulation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0906-walking-robot-simulation) |
 | [1002-maximum-width-ramp](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1256-rank-transform-of-an-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -95,6 +96,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1197-parsing-a-boolean-expression](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -166,6 +168,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0386-lexicographical-numbers](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -341,6 +344,7 @@
 | ------- |
 | [0140-word-break-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0140-word-break-ii) |
 | [0386-lexicographical-numbers](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2755-extra-characters-in-a-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Geometry
