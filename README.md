@@ -43,6 +43,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2755-extra-characters-in-a-string) |
+| [3291-find-if-array-can-be-sorted](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
@@ -201,6 +202,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3291-find-if-array-can-be-sorted](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
 |  |
 | ------- |
@@ -220,6 +222,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3291-find-if-array-can-be-sorted](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/3291-find-if-array-can-be-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
