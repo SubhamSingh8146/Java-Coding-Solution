@@ -44,6 +44,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2755-extra-characters-in-a-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -57,6 +58,7 @@
 | [0729-my-calendar-i](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0731-my-calendar-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -232,6 +234,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/3291-find-if-array-can-be-sorted) |
 ## Divide and Conquer
 |  |
@@ -318,6 +321,7 @@
 | [1923-sentence-similarity-iii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/3195-separate-black-and-white-balls) |
 ## Monotonic Stack
 |  |
