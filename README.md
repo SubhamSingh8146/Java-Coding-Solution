@@ -43,6 +43,7 @@
 | [2155-find-missing-observations](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2155-find-missing-observations) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -85,6 +86,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
