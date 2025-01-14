@@ -50,6 +50,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2755-extra-characters-in-a-string) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -156,6 +157,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2755-extra-characters-in-a-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2755-extra-characters-in-a-string) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
@@ -227,6 +229,7 @@
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/3394-minimum-array-end) |
