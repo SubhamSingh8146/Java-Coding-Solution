@@ -20,6 +20,7 @@
 | [0149-max-points-on-a-line](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0268-missing-number](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0729-my-calendar-i) |
@@ -62,6 +63,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/0268-missing-number) |
 | [0729-my-calendar-i](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -143,6 +145,7 @@
 | [0127-word-ladder](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0149-max-points-on-a-line) |
+| [0268-missing-number](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -169,6 +172,7 @@
 | [0069-sqrtx](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0149-max-points-on-a-line) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0268-missing-number](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -224,6 +228,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/0268-missing-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1940-maximum-xor-for-each-query) |
@@ -250,6 +255,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0016-3sum-closest) |
+| [0268-missing-number](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1256-rank-transform-of-an-array) |
