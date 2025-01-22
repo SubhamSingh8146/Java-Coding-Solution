@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0729-my-calendar-i](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0731-my-calendar-ii) |
@@ -165,6 +166,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0060-permutation-sequence) |
+| [0069-sqrtx](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0149-max-points-on-a-line) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
