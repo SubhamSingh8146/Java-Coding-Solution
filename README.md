@@ -64,6 +64,7 @@
 | [0069-sqrtx](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/0367-valid-perfect-square) |
 | [0729-my-calendar-i](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -173,6 +174,7 @@
 | [0149-max-points-on-a-line](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0149-max-points-on-a-line) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/0367-valid-perfect-square) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
