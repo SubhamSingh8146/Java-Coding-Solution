@@ -31,6 +31,7 @@
 | [1002-maximum-width-ramp](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1372-check-if-it-is-a-good-array](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/1372-check-if-it-is-a-good-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -177,6 +178,7 @@
 | [0367-valid-perfect-square](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/0367-valid-perfect-square) |
 | [0539-minimum-time-difference](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/1013-fibonacci-number) |
+| [1372-check-if-it-is-a-good-array](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/1372-check-if-it-is-a-good-array) |
 | [2155-find-missing-observations](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Linked List
@@ -227,6 +229,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1372-check-if-it-is-a-good-array](https://github.com/SubhamSingh8146/Java-Coding-Solution/tree/master/1372-check-if-it-is-a-good-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SubhamSingh8146/leetcode-Coding-Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
 |  |
